@@ -31,16 +31,20 @@
 	font-family: var(--content-font);
 }
 
+.message {
+	font-size: 3vh;
+}
+
 .quotes {
 	font-size: 3vh;
-	bottom: 5vh;
+	bottom: 20vh;
 	right: 5vh;
 	position: fixed;
 }
 
 .namaku{
 	font-size: 3vh;
-	top: 2vh;
+	top: 12vh;
 	left: 5vh;
 	position: fixed;
 }
