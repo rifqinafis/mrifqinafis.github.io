@@ -114,7 +114,7 @@ a:focus {
 
 /* Frame */
 .frame {
-	top: 0;
+	top: 50vh;
 	left: 0;
 	position: fixed;
 	z-index: 100;
@@ -204,7 +204,7 @@ a:focus {
 	flex-wrap: wrap;
 	background-size: 100% auto;
 	background-repeat: no-repeat;
-	background-position: 50vh 100vh;
+	background-position: 0 0;
 }
 
 @media screen and (max-width: 40em) {
