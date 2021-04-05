@@ -1,2 +1,2 @@
 # Hello !
-Just Web Profile inspired from Codrops : https://tympanus.net/codrops/
+Just Web Profile, template from Codrops : https://tympanus.net/codrops/
