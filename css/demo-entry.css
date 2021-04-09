@@ -40,6 +40,8 @@
 	bottom: 5vh;
 	right: 5vh;
 	position: fixed;
+	pointer-events: none;
+  	cursor: default;
 }
 
 .namaku{
@@ -47,6 +49,8 @@
 	top: 5vh;
 	left: 5vh;
 	position: fixed;
+	pointer-events: none;
+  	cursor: default;
 }
 
 .page-nav__item {
